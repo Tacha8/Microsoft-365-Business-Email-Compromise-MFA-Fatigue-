@@ -1,5 +1,5 @@
 
-# Threat Hunt Report: Microsoft 365 Business Email Compromise (MFA Fatigue)
+# Microsoft 365 Business Email Compromise (MFA Fatigue)
 
 ## Platforms and Languages Leveraged
 
